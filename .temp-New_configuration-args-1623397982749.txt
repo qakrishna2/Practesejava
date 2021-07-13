@@ -1,0 +1,5 @@
+-Dfile.encoding=Cp1252
+-classpath
+"E:\\Selenium\\Practesejava\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+com.sun.tools.javac.Main
