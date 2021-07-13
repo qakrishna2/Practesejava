@@ -11,6 +11,7 @@ public class Listexmp {
 		list.add("python");
 		list.add("tester");
 		list.add(1,"main");
+		list.add(2,"main1");
 		System.out.println(list);
 		List<Integer> list1=new ArrayList();
 		list1.add(5);
