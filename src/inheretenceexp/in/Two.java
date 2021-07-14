@@ -5,6 +5,7 @@ public class Two extends One {
 		Two t=new Two();
 		System.out.println(t.c);
 		System.out.println(t.c);
+		System.out.println(t.c);
 	}
 
 }
